@@ -1,5 +1,5 @@
 # MultiTool
-Multi Tool to work with Combo lists
+Multi Tool to work with Combo lists.
 It permits:
 - using Regex Extraction Data
 - Randomize
